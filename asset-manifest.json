@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1st-React-Practices-Text-Utills/static/css/main.86e5df40.css",
+    "main.js": "/1st-React-Practices-Text-Utills/static/js/main.77e45769.js",
+    "static/js/787.1cd43ffb.chunk.js": "/1st-React-Practices-Text-Utills/static/js/787.1cd43ffb.chunk.js",
+    "index.html": "/1st-React-Practices-Text-Utills/index.html",
+    "main.86e5df40.css.map": "/1st-React-Practices-Text-Utills/static/css/main.86e5df40.css.map",
+    "main.77e45769.js.map": "/1st-React-Practices-Text-Utills/static/js/main.77e45769.js.map",
+    "787.1cd43ffb.chunk.js.map": "/1st-React-Practices-Text-Utills/static/js/787.1cd43ffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e5df40.css",
+    "static/js/main.77e45769.js"
+  ]
+}
